@@ -1,2 +1,2 @@
 # Game-Pong
-Game Pong Fix
+Game Pong Fixed
